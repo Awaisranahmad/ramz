@@ -1,0 +1,9 @@
+streamlit
+groq
+PyPDF2
+python-docx
+pandas
+plotly
+numpy
+textstat
+openpyxl
